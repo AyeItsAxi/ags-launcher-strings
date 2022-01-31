@@ -1,7 +1,13 @@
 {
-    "test": "not even real",
     "Version":"Version 4.2",
     "ChangelogLine1":"+ Season 2",
     "ChangelogLine2":"+ yeah",
-    "BugLine1":"- There are currently no known bugs"
+    "ChangelogLine3":"",
+    "ChangelogLine4":"",
+    "ChangelogLine5":"",
+    "BugLine1":"- There are currently no known bugs",
+    "BugLine2":"",
+    "BugLine3":"",
+    "BugLine4":"",
+    "BugLine5":""
 }
