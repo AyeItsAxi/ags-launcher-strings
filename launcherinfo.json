@@ -1,4 +1,7 @@
 {
     "test": "not even real",
-    "Version":"Version 4.2"
+    "Version":"Version 4.2",
+    "ChangelogLine1":"+ Season 2",
+    "ChangelogLine2":"+ yeah",
+    "BugLine1":"- There are currently no known bugs"
 }
