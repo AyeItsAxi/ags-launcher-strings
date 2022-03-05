@@ -16,5 +16,7 @@
     "AveryUN":"AveryMadness",
     "CrunnieUN":"Crunnie",
     "LauncherVer":"ags+release+2.0.1+pub",
-    "DevLauncherVer":"ags+release+2.1+dev"
+    "DevLauncherVer":"ags+release+2.1+dev",
+    "LauncherString":"Launcher Version 2.0.1",
+    "DevLauncherString":"Launcher Version 2.1"
 }
