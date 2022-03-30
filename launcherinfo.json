@@ -13,7 +13,7 @@
     "BalanceCL4":"      ",
     "BalanceCL5":"      ",
     "BugLine1":"- Launcher writes progress percent to log as fast as it can",
-    "BugLine2":"",
+    "BugLine2":"- Progress bar is too long",
     "BugLine3":"",
     "BugLine4":"",
     "BugLine5":"",
