@@ -3,9 +3,9 @@
     "VersionInt":"4.2",
     "VersionFolderInt":"4.2",
     "ChangelogLine1":"+ Added an in-built updater (no more constant reinstalling!)",
-    "ChangelogLine2":"+ Some bug improvements here and there",
+    "ChangelogLine2":"+ Rewrote launcher logging system",
     "ChangelogLine3":"+ Open sourced downloader",
-    "ChangelogLine4":"+ Hit 1K lines of code",
+    "ChangelogLine4":"",
     "ChangelogLine5":"",
     "BalanceCL1":"               ",
     "BalanceCL2":"               ",
@@ -25,8 +25,8 @@
     "KiannaUN":"1 24 9",
     "AveryUN":"AveryMadness",
     "CrunnieUN":"Crunnie",
-    "LauncherVer":"ags+release+2.5.0+pub",
+    "LauncherVer":"ags+release+2.6.0+pub",
     "DevLauncherVer":"ags+release+3.0+predev",
-    "LauncherString":"Launcher Version 2.5.0",
-    "DevLauncherString":"Launcher Version 2.5.0"
+    "LauncherString":"Launcher Version 2.6.0",
+    "DevLauncherString":"Launcher Version 3.0.0-PREDEV"
 }
