@@ -28,5 +28,8 @@
     "LauncherVer":"ags+release+2.6.0+pub",
     "DevLauncherVer":"ags+release+3.0+predev",
     "LauncherString":"Launcher Version 2.6.0",
-    "DevLauncherString":"Launcher Version 3.0.0-PREDEV"
+    "DevLauncherString":"Launcher Version 3.0.0-PREDEV",
+    "NewsHeader":"Avery Game account system",
+    "NewsSubheader":"Avery has been hard at work to introduce a new and improved account system that will be releasing soon, stay tuned!",
+    "NewsImageURL":"https://cdn.discordapp.com/attachments/968741479176613888/968741505009344554/NewPrev.png"
 }
